@@ -1,0 +1,25 @@
+{
+  "name": "thermal-image",
+  "version": "1.0.0",
+  "description": "thermal image process",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruny1001/thermal-image.git"
+  },
+  "keywords": [
+    "thermal"
+  ],
+  "author": "Kevin Son <eson10660@jacks.sdstate.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kruny1001/thermal-image/issues"
+  },
+  "homepage": "https://github.com/kruny1001/thermal-image#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
