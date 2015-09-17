@@ -1,6 +1,6 @@
 {
   "name": "thermal-image",
-  "version": "1.0.1",
+  "version": "1.0.1-beta.0",
   "description": "thermal image process",
   "main": "src/index.js",
   "scripts": {
